@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>  Lesson 2 of Codecademy!</td>
     <td> </td>
-    <td> 13.6.17</td>
+    <td> 8.5.17</td>
   </tr>
 </table>
 
