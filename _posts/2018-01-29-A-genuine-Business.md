@@ -11,3 +11,5 @@ In today's lesson we learnt how to calculate our profit by making another sheet.
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSZOCD5XWQE1Xt50bMVBUKrEiZF8bXKPykjrtqOqKYbZOKykxOpa2LXk-1CZJE5HvkQTEfvtQYH9EbP/pubhtml?widget=true&amp;headers=false"></iframe>
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSZOCD5XWQE1Xt50bMVBUKrEiZF8bXKPykjrtqOqKYbZOKykxOpa2LXk-1CZJE5HvkQTEfvtQYH9EbP/pubhtml?widget=true&amp;headers=false"></iframe>
+
+https://docs.google.com/spreadsheets/d/1aa9IbRP1UsCZQ4sa4ZQiL8Czt_CfVF8iQMawKiOefrw/edit#gid=1703110185
