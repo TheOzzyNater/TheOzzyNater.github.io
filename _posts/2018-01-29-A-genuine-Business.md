@@ -8,3 +8,4 @@ published: true
 ---
 In today's lesson we learnt how to calculate our profit by making another sheet. On this sheet we would write down the original price, the number of items bought, the sale price, the number of units sold and the profit. We worked out our income by minusing the expenditure from the profit.
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSZOCD5XWQE1Xt50bMVBUKrEiZF8bXKPykjrtqOqKYbZOKykxOpa2LXk-1CZJE5HvkQTEfvtQYH9EbP/pubhtml?widget=true&amp;headers=false"></iframe>
